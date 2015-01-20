@@ -1,14 +1,14 @@
 {
   "name": "wingman",
-  "description": "Parallelize a function across multiple processes",
-  "version": "0.0.1",
+  "description": "Parallelize functions across multiple processes",
+  "version": "0.0.2",
   "contributors": [
     {
       "name": "Ashley Brener",
       "url": "http://frisB.com"
     }
   ],
-  "main": "src/",
+  "main": "lib/",
   "engines": {
     "node": ">= 0.8.x"
   },
