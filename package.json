@@ -1,5 +1,5 @@
 {
-  "name": "parallelize",
+  "name": "wingman",
   "description": "Parallelize a function across multiple processes",
   "version": "0.0.1",
   "contributors": [
@@ -22,12 +22,12 @@
     "grunt-mocha-test": "^0.11.0"
   },
   "bugs": {
-    "url": "https://github.com/frisb/parallelize/issues"
+    "url": "https://github.com/frisb/wingman/issues"
   },
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/frisb/parallelize"
+    "url": "https://github.com/frisb/wingman"
   },
   "keywords": [
     "parallelize",
